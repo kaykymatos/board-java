@@ -1,60 +1,39 @@
-abr. 06, 2025 3:13:53 PM liquibase.changelog
+abr. 06, 2025 8:44:50 PM liquibase.changelog
 INFO: Reading resource: db.changelog/migrations/db.changelog-202504052158.sql
-abr. 06, 2025 3:13:53 PM liquibase.changelog
+abr. 06, 2025 8:44:50 PM liquibase.changelog
 INFO: Reading resource: db.changelog/migrations/db.changelog-202504061228.sql
-abr. 06, 2025 3:13:53 PM liquibase.changelog
+abr. 06, 2025 8:44:50 PM liquibase.changelog
 INFO: Reading resource: db.changelog/migrations/db.changelog-202504061452.sql
-abr. 06, 2025 3:13:53 PM liquibase.changelog
+abr. 06, 2025 8:44:50 PM liquibase.changelog
 INFO: Reading resource: db.changelog/migrations/db.changelog-202504061455.sql
-abr. 06, 2025 3:13:54 PM liquibase.changelog
+abr. 06, 2025 8:44:50 PM liquibase.changelog
 INFO: Reading from board.databasechangelog
-abr. 06, 2025 3:13:54 PM liquibase.lockservice
-INFO: Successfully acquired change log lock
-abr. 06, 2025 3:13:54 PM liquibase.command
-INFO: Using deploymentId: 3963234135
-abr. 06, 2025 3:13:54 PM liquibase.changelog
+Database is up to date, no changesets to execute
+abr. 06, 2025 8:44:50 PM liquibase.changelog
 INFO: Reading from board.databasechangelog
-Running Changeset: db.changelog/migrations/db.changelog-202504061228.sql::202504061228::kayky
-abr. 06, 2025 3:13:54 PM liquibase.changelog
-INFO: Custom SQL executed
-abr. 06, 2025 3:13:54 PM liquibase.changelog
-INFO: ChangeSet db.changelog/migrations/db.changelog-202504061228.sql::202504061228::kayky ran successfully in 75ms
-Running Changeset: db.changelog/migrations/db.changelog-202504061452.sql::202504061452::kayky
-abr. 06, 2025 3:13:54 PM liquibase.changelog
-INFO: Custom SQL executed
-abr. 06, 2025 3:13:54 PM liquibase.changelog
-INFO: ChangeSet db.changelog/migrations/db.changelog-202504061452.sql::202504061452::kayky ran successfully in 59ms
-Running Changeset: db.changelog/migrations/db.changelog-202504061455.sql::202504061455::kayky
-abr. 06, 2025 3:13:54 PM liquibase.changelog
-INFO: Custom SQL executed
-abr. 06, 2025 3:13:54 PM liquibase.changelog
-INFO: ChangeSet db.changelog/migrations/db.changelog-202504061455.sql::202504061455::kayky ran successfully in 65ms
 
 UPDATE SUMMARY
-Run:                          3
-Previously run:               1
+Run:                          0
+Previously run:               4
 Filtered out:                 0
 -------------------------------
 Total change sets:            4
 
-abr. 06, 2025 3:13:54 PM liquibase.util
+abr. 06, 2025 8:44:50 PM liquibase.util
 INFO: UPDATE SUMMARY
-abr. 06, 2025 3:13:54 PM liquibase.util
-INFO: Run:                          3
-abr. 06, 2025 3:13:54 PM liquibase.util
-INFO: Previously run:               1
-abr. 06, 2025 3:13:54 PM liquibase.util
+abr. 06, 2025 8:44:50 PM liquibase.util
+INFO: Run:                          0
+abr. 06, 2025 8:44:50 PM liquibase.util
+INFO: Previously run:               4
+abr. 06, 2025 8:44:50 PM liquibase.util
 INFO: Filtered out:                 0
-abr. 06, 2025 3:13:54 PM liquibase.util
+abr. 06, 2025 8:44:50 PM liquibase.util
 INFO: -------------------------------
-abr. 06, 2025 3:13:54 PM liquibase.util
+abr. 06, 2025 8:44:50 PM liquibase.util
 INFO: Total change sets:            4
-abr. 06, 2025 3:13:54 PM liquibase.util
+abr. 06, 2025 8:44:50 PM liquibase.util
 INFO: Update summary generated
-abr. 06, 2025 3:13:54 PM liquibase.command
-INFO: Update command completed successfully.
-Liquibase: Update has been successful. Rows affected: 3
-abr. 06, 2025 3:13:54 PM liquibase.lockservice
+abr. 06, 2025 8:44:50 PM liquibase.lockservice
 INFO: Successfully released change log lock
-abr. 06, 2025 3:13:54 PM liquibase.command
+abr. 06, 2025 8:44:50 PM liquibase.command
 INFO: Command execution complete
